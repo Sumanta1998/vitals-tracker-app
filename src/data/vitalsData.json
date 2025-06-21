@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15",
+    "height": 170,
+    "weight": 70,
+    "bmi": 24.2,
+    "respirationRate": 16,
+    "temperature": 98.6,
+    "systolic": 120,
+    "diastolic": 80,
+    "pulseOx": 98,
+    "bloodGlucose": 90,
+    "heartRate": 72
+  },
+  {
+    "id": 2,
+    "date": "2024-01-16",
+    "height": 170,
+    "weight": 69.5,
+    "bmi": 24.0,
+    "respirationRate": 18,
+    "temperature": 98.4,
+    "systolic": 118,
+    "diastolic": 78,
+    "pulseOx": 97,
+    "bloodGlucose": 85,
+    "heartRate": 68
+  },
+  {
+    "id": 3,
+    "date": "2024-01-17",
+    "height": 170,
+    "weight": 70.2,
+    "bmi": 24.3,
+    "respirationRate": 16,
+    "temperature": 98.8,
+    "systolic": 125,
+    "diastolic": 82,
+    "pulseOx": 99,
+    "bloodGlucose": 92,
+    "heartRate": 75
+  },
+  {
+    "id": 4,
+    "date": "2024-01-18",
+    "height": 170,
+    "weight": 69.8,
+    "bmi": 24.1,
+    "respirationRate": 17,
+    "temperature": 98.2,
+    "systolic": 122,
+    "diastolic": 79,
+    "pulseOx": 96,
+    "bloodGlucose": 88,
+    "heartRate": 70
+  },
+  {
+    "id": 5,
+    "date": "2024-01-19",
+    "height": 170,
+    "weight": 70.5,
+    "bmi": 24.4,
+    "respirationRate": 15,
+    "temperature": 98.7,
+    "systolic": 130,
+    "diastolic": 85,
+    "pulseOx": 98,
+    "bloodGlucose": 95,
+    "heartRate": 78
+  }
+]
